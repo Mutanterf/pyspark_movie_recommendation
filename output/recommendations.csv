@@ -1,0 +1,1001 @@
+movieId,userId,score,title,genres,imdb_url
+6682,28,4.6256466,Earth (1998),Drama|War,https://www.imdb.com/title/tt0150433
+84844,28,4.6067405,Brother 2 (Brat 2) (2000),Crime|Drama,https://www.imdb.com/title/tt0238883
+7843,28,4.4064403,Lammbock (2001),Comedy,https://www.imdb.com/title/tt0258760
+3746,28,4.389674,Butterfly (La lengua de las mariposas) (1999),Drama,https://www.imdb.com/title/tt0188030
+136,28,4.340755,From the Journals of Jean Seberg (1995),Documentary,https://www.imdb.com/title/tt0113125
+8421,28,4.327501,Dying of Laughter (Muertos de Risa) (1999),Comedy,https://www.imdb.com/title/tt0168080
+5465,28,4.2852893,All About Lily Chou-Chou (Riri Shushu no subete) (2001),Crime|Drama|Thriller,https://www.imdb.com/title/tt0297721
+53883,28,4.2444034,"Power of Nightmares, The: The Rise of the Politics of Fear (2004)",Documentary,https://www.imdb.com/title/tt0430484
+3881,28,4.243343,Phish: Bittersweet Motel (2000),Documentary,https://www.imdb.com/title/tt0168515
+5681,28,4.2421904,Fidel (2001),Documentary,https://www.imdb.com/title/tt0292508
+73089,31,5.172002,Beyond a Reasonable Doubt (2009),Drama|Mystery,https://www.imdb.com/title/tt1183251
+27064,31,5.1590366,Batman & Mr. Freeze: Subzero (1998),Action|Animation|Children|Crime,https://www.imdb.com/title/tt0143127
+80222,31,5.082612,Step Up 3D (2010),Drama|Romance,https://www.imdb.com/title/tt1193631
+6311,31,4.968701,"Other Side of Heaven, The (2001)",Adventure|Drama,https://www.imdb.com/title/tt0250371
+92494,31,4.9686794,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+620,31,4.965512,Scream of Stone (Cerro Torre: Schrei aus Stein) (1991),Drama,https://www.imdb.com/title/tt0102855
+86237,31,4.9016905,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+771,31,4.852938,"Life Is Rosy (a.k.a. Life Is Beautiful) (Vie est belle, La) (1987)",Comedy|Drama,https://www.imdb.com/title/tt0094265
+5985,31,4.8501096,Asoka (Ashoka the Great) (2001),Action|Drama|Romance,https://www.imdb.com/title/tt0249371
+50796,31,4.7657213,Blood and Chocolate (2007),Drama|Fantasy|Horror|Romance,https://www.imdb.com/title/tt0397044
+86237,34,5.3540773,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+26347,34,5.2801127,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+98956,34,5.0091496,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+92500,34,4.9394712,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+86504,34,4.819876,Voices from the List (2004),Documentary,https://www.imdb.com/title/tt0405455
+55106,34,4.7882566,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+2762,34,4.7307034,"Sixth Sense, The (1999)",Drama|Horror|Mystery,https://www.imdb.com/title/tt0167404
+27922,34,4.7123694,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+69830,34,4.707317,Iron Maiden: Flight 666 (2009),Documentary,https://www.imdb.com/title/tt1361558
+27550,34,4.703887,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+26453,53,5.6771264,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+32649,53,5.4586034,"Special Day, A (Giornata particolare, Una) (1977)",Drama|War,https://www.imdb.com/title/tt0076085
+70295,53,5.1008153,"Beaches of Agnes, The (Plages d'Agnès, Les) (2008)",Documentary,https://www.imdb.com/title/tt1129435
+7106,53,5.075554,Black and White in Color (Noirs et blancs en couleur) (1976),Drama|War,https://www.imdb.com/title/tt0074972
+73392,53,5.0705247,Collapse (2009),Documentary,https://www.imdb.com/title/tt1503769
+82143,53,5.0617375,Alone in the Wilderness (2004),Documentary,https://www.imdb.com/title/tt0437806
+47152,53,5.0565386,Cria! (Cría cuervos) (1976),Drama|Mystery,https://www.imdb.com/title/tt0074360
+89900,53,5.0369263,Once Upon a Time in Anatolia (Bir zamanlar Anadolu'da) (2011),Drama,https://www.imdb.com/title/tt1827487
+92500,53,5.0266824,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+2933,53,4.948259,"Fire Within, The (Feu follet, Le) (1963)",Drama,https://www.imdb.com/title/tt0057058
+52784,65,5.0019484,Sharkwater (2006),Documentary,https://www.imdb.com/title/tt0856008
+4778,65,4.913555,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+56093,65,4.898447,12 (2007),Crime|Drama|Thriller|War,https://www.imdb.com/title/tt0488478
+27857,65,4.8278484,As it is in Heaven (Så som i himmelen) (2004),Drama|Musical|Romance,https://www.imdb.com/title/tt0382330
+1577,65,4.8150005,Mondo (1996),Drama,https://www.imdb.com/title/tt0117076
+53883,65,4.8137484,"Power of Nightmares, The: The Rise of the Politics of Fear (2004)",Documentary,https://www.imdb.com/title/tt0430484
+2324,65,4.7859693,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0118799
+30803,65,4.778155,3-Iron (Bin-jip) (2004),Drama|Romance,https://www.imdb.com/title/tt0423866
+38824,65,4.755604,Mother of Mine (Äideistä parhain) (2005),Drama,https://www.imdb.com/title/tt0343221
+1420,65,4.751681,Message to Love: The Isle of Wight Festival (1996),Documentary,https://www.imdb.com/title/tt0117028
+84716,78,4.7907667,Castaway on the Moon (Kimssi pyoryugi) (2009),Comedy|Drama|Romance,https://www.imdb.com/title/tt1499666
+72104,78,4.689244,Balance (1989),Animation|Drama|Mystery|Sci-Fi|Thriller,https://www.imdb.com/title/tt0096880
+67422,78,4.6433887,California Dreamin' (Nesfarsit) (2007),Comedy|Drama|War,https://www.imdb.com/title/tt0449573
+7002,78,4.61559,Mindwalk (1990),Drama,https://www.imdb.com/title/tt0100151
+260,78,4.5939264,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+49815,78,4.5523973,"Place Promised in Our Early Days, The (Kumo no mukô, yakusoku no basho) (2004)",Animation|Drama|Romance|Sci-Fi|War,https://www.imdb.com/title/tt0381348
+1210,78,4.5382175,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0086190
+87960,78,4.4891453,Between the Folds (2008),Documentary,https://www.imdb.com/title/tt1253565
+1196,78,4.4746175,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0080684
+1915,78,4.4744735,Voyage to the Beginning of the World (Viagem ao Princípio do Mundo) (1997),Drama,https://www.imdb.com/title/tt0120443
+86237,81,6.3912735,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+73608,81,5.7514453,Heat (1972),Comedy|Drama|Romance,https://www.imdb.com/title/tt0068688
+6511,81,5.672665,Jesus (1979),Drama,https://www.imdb.com/title/tt0079368
+91707,81,5.638375,In the Land of Blood and Honey (2011),Drama|Romance|War,https://www.imdb.com/title/tt1714209
+97648,81,5.583803,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+5178,81,5.570362,Fun (1994),Crime|Drama,https://www.imdb.com/title/tt0109855
+690,81,5.5224285,"Promise, The (Versprechen, Das) (1995)",Drama|Romance,https://www.imdb.com/title/tt0111613
+33124,81,5.477821,Before the Fall (NaPolA - Elite für den Führer) (2004),Drama|War,https://www.imdb.com/title/tt0384369
+80941,81,5.4389052,Dirty Girl (2010),Comedy|Drama,https://www.imdb.com/title/tt1107319
+38388,81,5.437641,Goal! The Dream Begins (Goal!) (2005),Drama,https://www.imdb.com/title/tt0380389
+86237,85,6.002653,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+92500,85,5.7160583,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26347,85,5.474893,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+92498,85,5.345373,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+97648,85,5.1234045,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+48045,85,5.0810356,Fear City: A Family-Style Comedy (La cité de la peur) (1994),Comedy,https://www.imdb.com/title/tt0109440
+73513,85,4.97824,"Swades: We, the People (Our Country) (2004)",Drama,https://www.imdb.com/title/tt0367110
+77177,85,4.9471617,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+98795,85,4.907661,Jazz (2001),Documentary,https://www.imdb.com/title/tt0221300
+93988,85,4.8930473,North & South (2004),Drama|Romance,https://www.imdb.com/title/tt0417349
+86237,101,4.803828,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+40697,101,4.6456714,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+8674,101,4.625533,Disco Pigs (2001),Drama,https://www.imdb.com/title/tt0236157
+318,101,4.5924754,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+50,101,4.540127,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,https://www.imdb.com/title/tt0114814
+296,101,4.499405,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+593,101,4.4861913,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,https://www.imdb.com/title/tt0102926
+27922,101,4.481649,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+2858,101,4.4766893,American Beauty (1999),Comedy|Drama,https://www.imdb.com/title/tt0169547
+60147,101,4.457641,Roman de gare (2007),Drama,https://www.imdb.com/title/tt0889652
+99764,108,4.1855154,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+77353,108,4.1789823,Achilles and the Tortoise (Akiresu to kame) (2008),Comedy,https://www.imdb.com/title/tt1217243
+58709,108,4.173456,Tropical Malady (Sud pralad) (2004),Drama|Fantasy|Romance,https://www.imdb.com/title/tt0381668
+72104,108,4.0853233,Balance (1989),Animation|Drama|Mystery|Sci-Fi|Thriller,https://www.imdb.com/title/tt0096880
+50583,108,4.074888,Linda Linda Linda (2005),Comedy|Drama,https://www.imdb.com/title/tt0468795
+86668,108,4.0444756,Louis Theroux: Law & Disorder (2008),Documentary,https://www.imdb.com/title/tt1347439
+55106,108,4.0382576,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+73824,108,4.0269313,Abigail's Party (1977),Drama,https://www.imdb.com/title/tt0075622
+39441,108,4.023093,New York Doll (2005),Documentary,https://www.imdb.com/title/tt0436629
+1768,108,4.004741,Mother and Son (Mat i syn) (1997),Drama,https://www.imdb.com/title/tt0119711
+296,115,4.5721354,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+5681,115,4.3135753,Fidel (2001),Documentary,https://www.imdb.com/title/tt0292508
+40697,115,4.311409,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+1089,115,4.213297,Reservoir Dogs (1992),Crime|Mystery|Thriller,https://www.imdb.com/title/tt0105236
+2959,115,4.1925163,Fight Club (1999),Action|Crime|Drama|Thriller,https://www.imdb.com/title/tt0137523
+778,115,4.177902,Trainspotting (1996),Comedy|Crime|Drama,https://www.imdb.com/title/tt0117951
+53883,115,4.17714,"Power of Nightmares, The: The Rise of the Politics of Fear (2004)",Documentary,https://www.imdb.com/title/tt0430484
+92475,115,4.14608,All Watched Over by Machines of Loving Grace (2011),Documentary,https://www.imdb.com/title/tt1955162
+6016,115,4.1438813,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,https://www.imdb.com/title/tt0317248
+858,115,4.138381,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+86237,126,4.9649386,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+26347,126,4.5195794,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+68099,126,4.377377,Apollo 13: To the Edge and Back (1994),Documentary,https://www.imdb.com/title/tt0180443
+92500,126,4.3394656,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+55106,126,4.153875,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+97648,126,4.1248975,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+98956,126,4.0509524,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+26345,126,4.046609,"Great Waldo Pepper, The (1975)",Drama|Romance,https://www.imdb.com/title/tt0073075
+98369,126,4.0252047,Halo 4: Forward Unto Dawn (2012),Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt2262308
+72921,126,4.0213103,Snow White (1916),Fantasy|Romance,https://www.imdb.com/title/tt0007361
+7361,133,4.2892103,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,https://www.imdb.com/title/tt0338013
+4226,133,4.239197,Memento (2000),Mystery|Thriller,https://www.imdb.com/title/tt0209144
+4973,133,4.190709,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,https://www.imdb.com/title/tt0211915
+2858,133,4.184571,American Beauty (1999),Comedy|Drama,https://www.imdb.com/title/tt0169547
+92475,133,4.1775475,All Watched Over by Machines of Loving Grace (2011),Documentary,https://www.imdb.com/title/tt1955162
+97230,133,4.167557,Side by Side (2012),Documentary,https://www.imdb.com/title/tt2014338
+79677,133,4.152216,"Two Escobars, The (2010)",Crime|Documentary,https://www.imdb.com/title/tt1522863
+2959,133,4.145287,Fight Club (1999),Action|Crime|Drama|Thriller,https://www.imdb.com/title/tt0137523
+82934,133,4.141394,"Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers, The (2009)",Documentary,https://www.imdb.com/title/tt1319726
+318,133,4.1311707,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+86237,137,5.334457,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+318,137,4.988095,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+593,137,4.9717474,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,https://www.imdb.com/title/tt0102926
+527,137,4.813742,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+296,137,4.811357,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+858,137,4.7789283,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+1196,137,4.7458143,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0080684
+260,137,4.7259703,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+356,137,4.698858,Forrest Gump (1994),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0109830
+2959,137,4.695588,Fight Club (1999),Action|Crime|Drama|Thriller,https://www.imdb.com/title/tt0137523
+86237,148,5.558813,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+26347,148,5.439269,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+92500,148,5.1322393,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26528,148,5.130247,Anne of Green Gables (1985),Children|Drama,https://www.imdb.com/title/tt0088727
+74282,148,5.083906,Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea) (1987),Children|Drama|Romance,https://www.imdb.com/title/tt0092571
+1035,148,4.9746733,"Sound of Music, The (1965)",Musical|Romance,https://www.imdb.com/title/tt0059742
+7669,148,4.946433,Pride and Prejudice (1995),Drama|Romance,https://www.imdb.com/title/tt0112130
+48045,148,4.850065,Fear City: A Family-Style Comedy (La cité de la peur) (1994),Comedy,https://www.imdb.com/title/tt0109440
+64511,148,4.8212724,Dean Spanley (2008),Comedy|Drama,https://www.imdb.com/title/tt1135968
+2125,148,4.7735586,Ever After: A Cinderella Story (1998),Comedy|Drama|Romance,https://www.imdb.com/title/tt0120631
+86237,155,4.7225213,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+84716,155,4.5117903,Castaway on the Moon (Kimssi pyoryugi) (2009),Comedy|Drama|Romance,https://www.imdb.com/title/tt1499666
+87960,155,4.350323,Between the Folds (2008),Documentary,https://www.imdb.com/title/tt1253565
+2571,155,4.3448687,"Matrix, The (1999)",Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0133093
+92494,155,4.3276806,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+27550,155,4.3108625,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+27178,155,4.262831,In July (Im Juli) (2000),Comedy|Romance,https://www.imdb.com/title/tt0177858
+32593,155,4.2502346,Dust to Glory (2005),Action|Adventure|Documentary,https://www.imdb.com/title/tt0386423
+7002,155,4.2475767,Mindwalk (1990),Drama,https://www.imdb.com/title/tt0100151
+5722,155,4.1892204,"Goat, The (a.k.a. Knock On Wood) (Chèvre, La) (1981)",Comedy,https://www.imdb.com/title/tt0082183
+55106,183,4.4793544,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+231,183,4.4436607,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy,https://www.imdb.com/title/tt0109686
+69842,183,4.437986,Good Dick (2008),Comedy|Drama|Romance,https://www.imdb.com/title/tt0944101
+5706,183,4.409605,"...All the Marbles (California Dolls, The) (1981)",Action|Comedy|Drama|Romance,https://www.imdb.com/title/tt0081964
+5939,183,4.3829656,"Man Who Saves the World, The (Dünyayi Kurtaran Adam) (1982)",Adventure|Sci-Fi,https://www.imdb.com/title/tt0182060
+51503,183,4.352637,Wise Guys (1986),Comedy|Crime,https://www.imdb.com/title/tt0092226
+33321,183,4.342396,Road House (1948),Drama|Film-Noir,https://www.imdb.com/title/tt0040740
+8887,183,4.332153,Whispers in the Dark (1992),Thriller,https://www.imdb.com/title/tt0105811
+8990,183,4.300271,"Delicate Delinquent, The (1957)",Comedy,https://www.imdb.com/title/tt0050301
+6664,183,4.266885,Commando (1985),Action|Adventure,https://www.imdb.com/title/tt0088944
+86237,193,5.081727,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+7097,193,5.034999,"Girl From Paris, A (hirondelle a fait le printemps, Une) (2001)",Comedy|Drama,https://www.imdb.com/title/tt0240149
+89045,193,5.009998,Rocky VI (1986),Comedy,https://www.imdb.com/title/tt0091865
+47725,193,4.9806676,Angel-A (2005),Comedy|Drama|Fantasy|Romance,https://www.imdb.com/title/tt0473753
+4348,193,4.8935394,Whatever Happened to Harold Smith? (1999),Comedy,https://www.imdb.com/title/tt0194530
+26630,193,4.871881,Moonwalker (1988),Musical,https://www.imdb.com/title/tt0095655
+27555,193,4.8706374,Fubar (2002),Comedy,https://www.imdb.com/title/tt0302585
+6637,193,4.863813,Thrashin' (1986),Action|Drama,https://www.imdb.com/title/tt0092085
+6897,193,4.83551,Unconditional Love (2002),Comedy|Drama,https://www.imdb.com/title/tt0219374
+6511,193,4.8028955,Jesus (1979),Drama,https://www.imdb.com/title/tt0079368
+40697,210,5.9588346,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+4851,210,5.4142895,Things Behind the Sun (2001),Drama,https://www.imdb.com/title/tt0245501
+34051,210,5.4109225,My Brilliant Career (1979),Drama|Romance,https://www.imdb.com/title/tt0079596
+4858,210,5.272128,Hail Columbia! (1982),Documentary|IMAX,https://www.imdb.com/title/tt0084043
+4893,210,5.20967,When a Stranger Calls (1979),Horror|Thriller,https://www.imdb.com/title/tt0080130
+6056,210,5.184288,Chaos (2001),Comedy|Crime|Drama,https://www.imdb.com/title/tt0265116
+69849,210,5.057505,Roots (1977),Drama|War,https://www.imdb.com/title/tt0075572
+86347,210,5.0270433,Louis C.K.: Chewed Up (2008),Comedy,https://www.imdb.com/title/tt1190722
+86237,210,4.964425,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+33270,210,4.955905,"Taste of Tea, The (Cha no aji) (2004)",Comedy|Drama,https://www.imdb.com/title/tt0413893
+86237,211,5.2718177,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,211,4.778284,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+7153,211,4.729127,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,https://www.imdb.com/title/tt0167260
+4993,211,4.6775613,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,https://www.imdb.com/title/tt0120737
+5952,211,4.676669,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,https://www.imdb.com/title/tt0167261
+86574,211,4.5137744,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+77177,211,4.4986334,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+318,211,4.4948797,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+4306,211,4.4643517,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,https://www.imdb.com/title/tt0126029
+260,211,4.4419737,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+88837,243,4.6780243,"Trotsky, The (2009)",Comedy,https://www.imdb.com/title/tt1295072
+2959,243,4.644337,Fight Club (1999),Action|Crime|Drama|Thriller,https://www.imdb.com/title/tt0137523
+7306,243,4.6330414,"Herod's Law (Ley de Herodes, La) (2000)",Comedy|Crime|Mystery,https://www.imdb.com/title/tt0221344
+296,243,4.564974,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+52784,243,4.552148,Sharkwater (2006),Documentary,https://www.imdb.com/title/tt0856008
+96020,243,4.5247517,Sidewalls (Medianeras) (2011),Drama,https://www.imdb.com/title/tt1235841
+77846,243,4.515632,12 Angry Men (1997),Crime|Drama,https://www.imdb.com/title/tt0118528
+8478,243,4.489387,"Distant Voices, Still Lives (1988)",Drama,https://www.imdb.com/title/tt0095037
+2858,243,4.4710474,American Beauty (1999),Comedy|Drama,https://www.imdb.com/title/tt0169547
+82240,243,4.452632,Suck (2009),Comedy|Horror|Musical,https://www.imdb.com/title/tt1323605
+86237,251,5.5565453,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+79494,251,5.221943,Safe Sex (1999),Comedy,https://www.imdb.com/title/tt0220016
+54621,251,5.1649117,Molière (2007),Comedy|Drama|Romance,https://www.imdb.com/title/tt0796335
+86574,251,5.134677,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+57183,251,4.8568635,Like Stars on Earth (Taare Zameen Par) (2007),Drama,https://www.imdb.com/title/tt0986264
+7813,251,4.850104,FM (1978),Drama,https://www.imdb.com/title/tt0077532
+26347,251,4.7476373,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+27544,251,4.6520615,Waterboys (2001),Comedy,https://www.imdb.com/title/tt0299213
+27064,251,4.6382694,Batman & Mr. Freeze: Subzero (1998),Action|Animation|Children|Crime,https://www.imdb.com/title/tt0143127
+98956,251,4.634752,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+86237,255,6.3583374,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,255,5.6016,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+26577,255,5.30084,Nobody's Fool (1986),Comedy|Romance,https://www.imdb.com/title/tt0091642
+73513,255,5.269432,"Swades: We, the People (Our Country) (2004)",Drama,https://www.imdb.com/title/tt0367110
+56167,255,5.096605,Om Shanti Om (2007),Action|Drama|Musical|Romance,https://www.imdb.com/title/tt1024943
+8794,255,5.0628967,"Unfinished Piece for a Player Piano, An (Neokonchennaya pyesa dlya mekhanicheskogo pianino) (1977)",Drama,https://www.imdb.com/title/tt0076446
+2059,255,5.027706,"Parent Trap, The (1998)",Children|Comedy|Romance,https://www.imdb.com/title/tt0120783
+26347,255,5.0257654,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+64114,255,5.0235662,Fireproof (2008),Drama|Romance,https://www.imdb.com/title/tt1129423
+83086,255,5.011878,Burlesque (2010),Drama|Musical|Romance,https://www.imdb.com/title/tt1126591
+26153,296,4.674122,Grand Prix (1966),Drama,https://www.imdb.com/title/tt0060472
+57183,296,4.670689,Like Stars on Earth (Taare Zameen Par) (2007),Drama,https://www.imdb.com/title/tt0986264
+86237,296,4.6371927,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+27544,296,4.629567,Waterboys (2001),Comedy,https://www.imdb.com/title/tt0299213
+55106,296,4.6124253,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+61961,296,4.5908337,On the Beach (2000),Drama|Sci-Fi,https://www.imdb.com/title/tt0219224
+86574,296,4.5792084,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+69495,296,4.564653,Breakfast with Scot (2007),Drama|Romance,https://www.imdb.com/title/tt0910847
+91821,296,4.5254602,"Muppet Family Christmas, A (1987)",Children|Comedy|Musical,https://www.imdb.com/title/tt0251282
+593,296,4.5236106,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,https://www.imdb.com/title/tt0102926
+99764,321,4.9725084,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+4778,321,4.61612,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+33270,321,4.6108866,"Taste of Tea, The (Cha no aji) (2004)",Comedy|Drama,https://www.imdb.com/title/tt0413893
+91707,321,4.5656514,In the Land of Blood and Honey (2011),Drama|Romance|War,https://www.imdb.com/title/tt1714209
+1208,321,4.565534,Apocalypse Now (1979),Action|Drama|War,https://www.imdb.com/title/tt0078788
+58425,321,4.56496,Heima (2007),Documentary,https://www.imdb.com/title/tt1094594
+1193,321,4.529742,One Flew Over the Cuckoo's Nest (1975),Drama,https://www.imdb.com/title/tt0073486
+94126,321,4.5056415,Bullhead (Rundskop) (2011),Crime|Drama,https://www.imdb.com/title/tt1821593
+858,321,4.497126,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+7502,321,4.495755,Band of Brothers (2001),Action|Drama|War,https://www.imdb.com/title/tt0185906
+296,322,4.725547,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+608,322,4.675925,Fargo (1996),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0116282
+94024,322,4.632268,Louis Theroux: The Most Hated Family in America in Crisis (2011),Documentary,https://www.imdb.com/title/tt1883251
+2858,322,4.608796,American Beauty (1999),Comedy|Drama,https://www.imdb.com/title/tt0169547
+25,322,4.5549192,Leaving Las Vegas (1995),Drama|Romance,https://www.imdb.com/title/tt0113627
+2997,322,4.5417023,Being John Malkovich (1999),Comedy|Drama|Fantasy,https://www.imdb.com/title/tt0120601
+26325,322,4.5134416,Hearts and Minds (1974),Documentary|War,https://www.imdb.com/title/tt0071604
+265,322,4.5012155,Like Water for Chocolate (Como agua para chocolate) (1992),Drama|Fantasy|Romance,https://www.imdb.com/title/tt0103994
+26188,322,4.469302,"Heart Is a Lonely Hunter, The (1968)",Drama,https://www.imdb.com/title/tt0063050
+3522,322,4.466121,Sacco and Vanzetti (Sacco e Vanzetti) (1971),Drama,https://www.imdb.com/title/tt0067698
+404,362,5.3998823,Brother Minister: The Assassination of Malcolm X (1994),Documentary,https://www.imdb.com/title/tt0109339
+4778,362,5.343149,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+53883,362,5.208337,"Power of Nightmares, The: The Rise of the Politics of Fear (2004)",Documentary,https://www.imdb.com/title/tt0430484
+6896,362,5.1953154,Shoah (1985),Documentary|War,https://www.imdb.com/title/tt0090015
+26743,362,5.1422024,Only Yesterday (Omohide poro poro) (1991),Animation|Drama,https://www.imdb.com/title/tt0102587
+4458,362,5.132126,Africa: The Serengeti (1994),Documentary|IMAX,https://www.imdb.com/title/tt0109049
+82143,362,5.1229196,Alone in the Wilderness (2004),Documentary,https://www.imdb.com/title/tt0437806
+1780,362,5.1008873,Ayn Rand: A Sense of Life (1997),Documentary,https://www.imdb.com/title/tt0118662
+2830,362,5.083147,Cabaret Balkan (Bure Baruta) (1998),Drama,https://www.imdb.com/title/tt0169145
+33750,362,5.078782,Innocent Voices (Voces inocentes) (2004),Drama|War,https://www.imdb.com/title/tt0387914
+55106,368,4.7679043,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+86574,368,4.4952826,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+85780,368,4.4822493,Family Guy Presents: It's a Trap (2010),Animation|Comedy|Sci-Fi,https://www.imdb.com/title/tt1701991
+2028,368,4.4255724,Saving Private Ryan (1998),Action|Drama|War,https://www.imdb.com/title/tt0120815
+589,368,4.40737,Terminator 2: Judgment Day (1991),Action|Sci-Fi,https://www.imdb.com/title/tt0103064
+318,368,4.400201,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+2571,368,4.3814797,"Matrix, The (1999)",Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0133093
+457,368,4.3382792,"Fugitive, The (1993)",Thriller,https://www.imdb.com/title/tt0106977
+86237,368,4.3193965,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+858,368,4.305456,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+92500,375,5.6686416,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+92498,375,5.453529,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+26347,375,5.4437995,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+26453,375,5.2578287,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+82143,375,5.2481494,Alone in the Wilderness (2004),Documentary,https://www.imdb.com/title/tt0437806
+26463,375,5.1948,Barefoot Gen (Hadashi no Gen) (1983),Animation|Drama|War,https://www.imdb.com/title/tt0085218
+98795,375,5.162509,Jazz (2001),Documentary,https://www.imdb.com/title/tt0221300
+68472,375,5.1613727,Cherry Blossoms (Kirschblüten - Hanami) (2008),Drama|Romance,https://www.imdb.com/title/tt0910559
+5889,375,5.088765,"Cruel Romance, A (Zhestokij Romans) (1984)",Drama|Romance,https://www.imdb.com/title/tt0090368
+73392,375,5.0828757,Collapse (2009),Documentary,https://www.imdb.com/title/tt1503769
+86237,385,5.8200707,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+318,385,5.010009,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+49422,385,4.84698,"OSS 117: Cairo, Nest of Spies (OSS 117: Le Caire nid d'espions) (2006)",Adventure|Comedy|Crime,https://www.imdb.com/title/tt0464913
+92500,385,4.8151894,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+50,385,4.750245,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,https://www.imdb.com/title/tt0114814
+26347,385,4.736694,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+26614,385,4.729457,"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,https://www.imdb.com/title/tt0094791
+92259,385,4.7052107,Intouchables (2011),Comedy|Drama,https://www.imdb.com/title/tt1675434
+1704,385,4.6854124,Good Will Hunting (1997),Drama|Romance,https://www.imdb.com/title/tt0119217
+26674,385,4.671831,Prime Suspect (1991),Crime|Drama|Mystery|Thriller,https://www.imdb.com/title/tt0098898
+59126,392,5.1837234,Religulous (2008),Comedy|Documentary,https://www.imdb.com/title/tt0815241
+67138,392,5.137068,Live Free or Die (2006),Comedy|Crime,https://www.imdb.com/title/tt0432318
+40697,392,5.129107,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+88837,392,5.113383,"Trotsky, The (2009)",Comedy,https://www.imdb.com/title/tt1295072
+4778,392,5.098919,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+5178,392,5.0831842,Fun (1994),Crime|Drama,https://www.imdb.com/title/tt0109855
+86347,392,5.031212,Louis C.K.: Chewed Up (2008),Comedy,https://www.imdb.com/title/tt1190722
+86377,392,4.964925,Louis C.K.: Shameless (2007),Comedy,https://www.imdb.com/title/tt0927619
+3881,392,4.920043,Phish: Bittersweet Motel (2000),Documentary,https://www.imdb.com/title/tt0168515
+5767,392,4.916409,Teddy Bear (Mis) (1981),Comedy|Crime,https://www.imdb.com/title/tt0082755
+99764,436,5.0358434,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+72104,436,5.0000196,Balance (1989),Animation|Drama|Mystery|Sci-Fi|Thriller,https://www.imdb.com/title/tt0096880
+77854,436,4.943716,"Work of Director Michel Gondry, The (2003)",Comedy|Documentary,https://www.imdb.com/title/tt0384700
+96062,436,4.8930416,Jekyll (2007),Crime|Horror|Thriller,https://www.imdb.com/title/tt0497298
+79494,436,4.882091,Safe Sex (1999),Comedy,https://www.imdb.com/title/tt0220016
+1136,436,4.8638096,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,https://www.imdb.com/title/tt0071853
+2768,436,4.859837,Stiff Upper Lips (1998),Comedy,https://www.imdb.com/title/tt0120210
+48045,436,4.8130965,Fear City: A Family-Style Comedy (La cité de la peur) (1994),Comedy,https://www.imdb.com/title/tt0109440
+94810,436,4.7987127,Eva (2011),Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt1298554
+27544,436,4.7940936,Waterboys (2001),Comedy,https://www.imdb.com/title/tt0299213
+26453,451,4.0670037,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+60201,451,3.9376166,"Color of Pomegranates, The (Sayat Nova) (1968)",Drama,https://www.imdb.com/title/tt0063555
+296,451,3.9360943,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+1206,451,3.9289756,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,https://www.imdb.com/title/tt0066921
+47152,451,3.9147556,Cria! (Cría cuervos) (1976),Drama|Mystery,https://www.imdb.com/title/tt0074360
+2512,451,3.9119115,"Ballad of Narayama, The (Narayama bushiko) (1983)",Drama,https://www.imdb.com/title/tt0084390
+2604,451,3.9080653,Let it Come Down: The Life of Paul Bowles (1998),Documentary,https://www.imdb.com/title/tt0168950
+86668,451,3.9026074,Louis Theroux: Law & Disorder (2008),Documentary,https://www.imdb.com/title/tt1347439
+1420,451,3.8910716,Message to Love: The Isle of Wight Festival (1996),Documentary,https://www.imdb.com/title/tt0117028
+76111,451,3.8897846,About Elly (Darbareye Elly) (2009),Drama|Mystery,https://www.imdb.com/title/tt1360860
+744,458,5.056875,Brothers in Trouble (1995),Drama,https://www.imdb.com/title/tt0112586
+296,458,4.8311043,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+31524,458,4.7303267,"Bitter Tears of Petra von Kant, The (bitteren Tränen der Petra von Kant, Die) (1972)",Drama,https://www.imdb.com/title/tt0068278
+8696,458,4.6559215,Breezy (1973),Drama|Romance,https://www.imdb.com/title/tt0069822
+27811,458,4.6377454,Buddy (2003),Comedy|Drama,https://www.imdb.com/title/tt0371589
+2858,458,4.5951657,American Beauty (1999),Comedy|Drama,https://www.imdb.com/title/tt0169547
+2959,458,4.590262,Fight Club (1999),Action|Crime|Drama|Thriller,https://www.imdb.com/title/tt0137523
+2305,458,4.5813813,Slam (1998),Drama,https://www.imdb.com/title/tt0139615
+54193,458,4.5747495,Broken English (2007),Comedy|Drama|Romance,https://www.imdb.com/title/tt0772157
+6711,458,4.5225453,Lost in Translation (2003),Comedy|Drama|Romance,https://www.imdb.com/title/tt0335266
+86237,463,5.53735,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,463,5.253252,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+77177,463,5.2239695,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+527,463,5.0389085,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+85316,463,5.0223923,Winnie the Pooh and Tigger Too (1974),Animation|Children,https://www.imdb.com/title/tt0072410
+2309,463,4.970224,"Inheritors, The (Siebtelbauern, Die) (1998)",Drama|Mystery,https://www.imdb.com/title/tt0141824
+92500,463,4.9599037,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+49917,463,4.947391,When the Levees Broke: A Requiem in Four Acts (2006),Documentary,https://www.imdb.com/title/tt0783612
+26472,463,4.8175163,"Norte, El (1984)",Adventure|Drama,https://www.imdb.com/title/tt0085482
+27550,463,4.811655,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+86237,471,5.2491493,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,471,5.2265787,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+77177,471,4.633455,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+92500,471,4.489315,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+60147,471,4.355182,Roman de gare (2007),Drama,https://www.imdb.com/title/tt0889652
+527,471,4.3237467,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+93040,471,4.2484646,"Civil War, The (1990)",Documentary|War,https://www.imdb.com/title/tt0098769
+54621,471,4.2478137,Molière (2007),Comedy|Drama|Romance,https://www.imdb.com/title/tt0796335
+318,471,4.2354627,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+47904,471,4.2278757,"Notti bianche, Le (White Nights) (1957)",Drama|Romance,https://www.imdb.com/title/tt0050782
+86237,472,6.6685476,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+92500,472,5.862334,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26347,472,5.584831,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+77177,472,5.4905205,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+73513,472,5.414246,"Swades: We, the People (Our Country) (2004)",Drama,https://www.imdb.com/title/tt0367110
+97648,472,5.3973093,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+92498,472,5.3059525,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+91233,472,5.2565565,Lifted (2006),Animation|Comedy|Sci-Fi,https://www.imdb.com/title/tt0945571
+26528,472,5.254553,Anne of Green Gables (1985),Children|Drama,https://www.imdb.com/title/tt0088727
+69830,472,5.2398453,Iron Maiden: Flight 666 (2009),Documentary,https://www.imdb.com/title/tt1361558
+2571,481,4.1494746,"Matrix, The (1999)",Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0133093
+541,481,4.1442924,Blade Runner (1982),Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0083658
+527,481,4.143933,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+32593,481,4.142433,Dust to Glory (2005),Action|Adventure|Documentary,https://www.imdb.com/title/tt0386423
+44100,481,4.1343336,Cyrano de Bergerac (1950),Drama|Romance,https://www.imdb.com/title/tt0042367
+84716,481,4.1311016,Castaway on the Moon (Kimssi pyoryugi) (2009),Comedy|Drama|Romance,https://www.imdb.com/title/tt1499666
+57543,481,4.13101,Fallen Art (Sztuka spadania) (2004),Action|Animation|Comedy,https://www.imdb.com/title/tt0440846
+318,481,4.128439,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+77658,481,4.1257954,Cosmos (1980),Documentary,https://www.imdb.com/title/tt0081846
+296,481,4.1003428,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+40697,496,5.218351,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+27922,496,5.011932,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+86237,496,4.9741206,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+60904,496,4.9259205,Heart of a Dog (Sobachye serdtse) (1988),Comedy|Drama|Sci-Fi,https://www.imdb.com/title/tt0096126
+98956,496,4.8557453,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+34051,496,4.7947283,My Brilliant Career (1979),Drama|Romance,https://www.imdb.com/title/tt0079596
+55726,496,4.7305017,"Year My Parents Went on Vacation, The (O Ano em Que Meus Pais Saíram de Férias) (2006)",Drama,https://www.imdb.com/title/tt0857355
+55106,496,4.709501,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+87960,496,4.703317,Between the Folds (2008),Documentary,https://www.imdb.com/title/tt1253565
+89386,496,4.7010307,Pearl Jam Twenty (2011),Documentary|Musical,https://www.imdb.com/title/tt1417592
+86237,497,4.9421415,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+5798,497,4.540088,Escanaba in da Moonlight (2001),Comedy,https://www.imdb.com/title/tt0180679
+27922,497,4.5052586,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+65612,497,4.4981875,Castaway (1986),Adventure|Drama,https://www.imdb.com/title/tt0092732
+6511,497,4.490881,Jesus (1979),Drama,https://www.imdb.com/title/tt0079368
+2028,497,4.4428177,Saving Private Ryan (1998),Action|Drama|War,https://www.imdb.com/title/tt0120815
+30970,497,4.429348,"Handful of Dust, A (1988)",Drama,https://www.imdb.com/title/tt0095274
+69524,497,4.400076,Raiders of the Lost Ark: The Adaptation (1989),Action|Adventure|Thriller,https://www.imdb.com/title/tt0772251
+5221,497,4.321813,Harrison's Flowers (2000),Drama,https://www.imdb.com/title/tt0216799
+1198,497,4.3155613,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,https://www.imdb.com/title/tt0082971
+40697,513,4.6363964,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+86237,513,4.475384,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+82143,513,4.46628,Alone in the Wilderness (2004),Documentary,https://www.imdb.com/title/tt0437806
+364,513,4.359213,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,https://www.imdb.com/title/tt0110357
+97648,513,4.332038,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+96062,513,4.2911973,Jekyll (2007),Crime|Horror|Thriller,https://www.imdb.com/title/tt0497298
+794,513,4.2602096,Midnight Dancers (Sibak) (1994),Comedy|Drama,https://www.imdb.com/title/tt0111180
+8677,513,4.229158,Flash Gordon Conquers the Universe (1940),Action|Sci-Fi,https://www.imdb.com/title/tt0032475
+61406,513,4.1681557,John Adams (2008),Drama,https://www.imdb.com/title/tt0472027
+7502,513,4.15356,Band of Brothers (2001),Action|Drama|War,https://www.imdb.com/title/tt0185906
+86237,516,5.210855,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+4851,516,4.774194,Things Behind the Sun (2001),Drama,https://www.imdb.com/title/tt0245501
+2571,516,4.696809,"Matrix, The (1999)",Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0133093
+1196,516,4.6264443,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0080684
+260,516,4.621291,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+1210,516,4.6138296,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0086190
+92494,516,4.6073265,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+96062,516,4.5891547,Jekyll (2007),Crime|Horror|Thriller,https://www.imdb.com/title/tt0497298
+4993,516,4.5432034,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,https://www.imdb.com/title/tt0120737
+7153,516,4.5369306,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,https://www.imdb.com/title/tt0167260
+26453,530,4.276152,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+56167,530,4.116542,Om Shanti Om (2007),Action|Drama|Musical|Romance,https://www.imdb.com/title/tt1024943
+32649,530,4.09601,"Special Day, A (Giornata particolare, Una) (1977)",Drama|War,https://www.imdb.com/title/tt0076085
+92500,530,4.000736,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+1768,530,3.984804,Mother and Son (Mat i syn) (1997),Drama,https://www.imdb.com/title/tt0119711
+82934,530,3.916209,"Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers, The (2009)",Documentary,https://www.imdb.com/title/tt1319726
+26049,530,3.8654144,Fires on the Plain (Nobi) (1959),Drama|War,https://www.imdb.com/title/tt0053121
+27922,530,3.7871892,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+7190,530,3.7835362,Jane Eyre (1970),Drama,https://www.imdb.com/title/tt0065911
+3429,530,3.7606046,Creature Comforts (1989),Animation|Comedy,https://www.imdb.com/title/tt0099317
+296,540,4.509088,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+1206,540,4.4096303,"Clockwork Orange, A (1971)",Crime|Drama|Sci-Fi|Thriller,https://www.imdb.com/title/tt0066921
+99764,540,4.3965883,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+750,540,4.3851786,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,https://www.imdb.com/title/tt0057012
+77658,540,4.344673,Cosmos (1980),Documentary,https://www.imdb.com/title/tt0081846
+1208,540,4.3388953,Apocalypse Now (1979),Action|Drama|War,https://www.imdb.com/title/tt0078788
+1136,540,4.3358717,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,https://www.imdb.com/title/tt0071853
+924,540,4.328713,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,https://www.imdb.com/title/tt0062622
+92475,540,4.3178687,All Watched Over by Machines of Loving Grace (2011),Documentary,https://www.imdb.com/title/tt1955162
+1199,540,4.310385,Brazil (1985),Fantasy|Sci-Fi,https://www.imdb.com/title/tt0088846
+26674,580,5.0188494,Prime Suspect (1991),Crime|Drama|Mystery|Thriller,https://www.imdb.com/title/tt0098898
+3996,580,5.016781,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Action|Drama|Romance,https://www.imdb.com/title/tt0190332
+106,580,5.0091124,Nobody Loves Me (Keiner liebt mich) (1994),Comedy|Drama,https://www.imdb.com/title/tt0110251
+76111,580,5.007221,About Elly (Darbareye Elly) (2009),Drama|Mystery,https://www.imdb.com/title/tt1360860
+92494,580,5.0026402,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+3092,580,4.988316,"47 Samurai (Chûshingura) (Loyal 47 Ronin, The) (1962)",Drama,https://www.imdb.com/title/tt0055850
+47404,580,4.970432,Mind Game (2004),Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi,https://www.imdb.com/title/tt0452039
+4993,580,4.9637656,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,https://www.imdb.com/title/tt0120737
+3242,580,4.9612203,Santitos (1999),Comedy,https://www.imdb.com/title/tt0126651
+260,580,4.930414,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+84844,588,5.530587,Brother 2 (Brat 2) (2000),Crime|Drama,https://www.imdb.com/title/tt0238883
+86237,588,5.517048,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+92494,588,5.4627924,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+97648,588,5.396627,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+4459,588,5.2287955,Alaska: Spirit of the Wild (1997),Documentary|IMAX,https://www.imdb.com/title/tt0130445
+45412,588,5.2211456,"Hidden Blade, The (Kakushi ken oni no tsume) (2004)",Action|Drama|Romance,https://www.imdb.com/title/tt0442286
+2324,588,5.17017,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0118799
+26949,588,5.167958,Freakin' Beautiful World (Sairaan kaunis maailma) (1997),Drama,https://www.imdb.com/title/tt0117540
+95858,588,5.157779,For the Birds (2000),Animation|Children|Comedy,https://www.imdb.com/title/tt0248808
+38388,588,5.1471586,Goal! The Dream Begins (Goal!) (2005),Drama,https://www.imdb.com/title/tt0380389
+86237,593,6.467581,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,593,6.0520024,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+60147,593,5.510385,Roman de gare (2007),Drama,https://www.imdb.com/title/tt0889652
+26966,593,5.3335004,"Brave, The (1997)",Drama,https://www.imdb.com/title/tt0118768
+26347,593,5.2872887,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+57183,593,5.268963,Like Stars on Earth (Taare Zameen Par) (2007),Drama,https://www.imdb.com/title/tt0986264
+52784,593,5.234116,Sharkwater (2006),Documentary,https://www.imdb.com/title/tt0856008
+68099,593,5.2304783,Apollo 13: To the Edge and Back (1994),Documentary,https://www.imdb.com/title/tt0180443
+8744,593,5.216528,Fancy Pants (1950),Comedy|Western,https://www.imdb.com/title/tt0042447
+77177,593,5.1947303,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+26453,596,5.0597034,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+8484,596,5.006212,"Human Condition I, The (Ningen no joken I) (1959)",Drama|War,https://www.imdb.com/title/tt0053114
+1232,596,4.8416443,Stalker (1979),Drama|Mystery|Sci-Fi,https://www.imdb.com/title/tt0079944
+6460,596,4.81041,"Trial, The (Procès, Le) (1962)",Drama,https://www.imdb.com/title/tt0057427
+6818,596,4.784208,Come and See (Idi i smotri) (1985),Drama|War,https://www.imdb.com/title/tt0091251
+2360,596,4.779712,"Celebration, The (Festen) (1998)",Drama,https://www.imdb.com/title/tt0154420
+4778,596,4.7755184,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+53883,596,4.7743816,"Power of Nightmares, The: The Rise of the Politics of Fear (2004)",Documentary,https://www.imdb.com/title/tt0430484
+702,596,4.7718163,Faces (1968),Drama,https://www.imdb.com/title/tt0062952
+111,596,4.7438693,Taxi Driver (1976),Crime|Drama|Thriller,https://www.imdb.com/title/tt0075314
+86237,597,6.514902,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+5178,597,5.8843555,Fun (1994),Crime|Drama,https://www.imdb.com/title/tt0109855
+4858,597,5.8075404,Hail Columbia! (1982),Documentary|IMAX,https://www.imdb.com/title/tt0084043
+3913,597,5.8069997,Barenaked in America (1999),Documentary,https://www.imdb.com/title/tt0211219
+58376,597,5.764186,Zeitgeist: The Movie (2007),Documentary|War,https://www.imdb.com/title/tt1166827
+52784,597,5.748553,Sharkwater (2006),Documentary,https://www.imdb.com/title/tt0856008
+6896,597,5.7374206,Shoah (1985),Documentary|War,https://www.imdb.com/title/tt0090015
+4459,597,5.7235184,Alaska: Spirit of the Wild (1997),Documentary|IMAX,https://www.imdb.com/title/tt0130445
+68099,597,5.7047496,Apollo 13: To the Edge and Back (1994),Documentary,https://www.imdb.com/title/tt0180443
+40697,597,5.6443987,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+26347,613,4.569852,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+1901,613,4.341228,Dear Jesse (1997),Documentary,https://www.imdb.com/title/tt0150290
+79287,613,4.338639,"Wizard of Oz, The (1925)",Adventure|Children|Comedy|Fantasy,https://www.imdb.com/title/tt0016544
+92210,613,4.2549,"Disappearance of Haruhi Suzumiya, The (Suzumiya Haruhi no shôshitsu) (2010)",Adventure|Animation|Drama|Mystery|Sci-Fi,https://www.imdb.com/title/tt1572781
+68472,613,4.238175,Cherry Blossoms (Kirschblüten - Hanami) (2008),Drama|Romance,https://www.imdb.com/title/tt0910559
+5939,613,4.2157726,"Man Who Saves the World, The (Dünyayi Kurtaran Adam) (1982)",Adventure|Sci-Fi,https://www.imdb.com/title/tt0182060
+95377,613,4.207429,One Man Band (2005),Animation|Comedy|Musical,https://www.imdb.com/title/tt0479113
+5889,613,4.1999035,"Cruel Romance, A (Zhestokij Romans) (1984)",Drama|Romance,https://www.imdb.com/title/tt0090368
+27857,613,4.1792755,As it is in Heaven (Så som i himmelen) (2004),Drama|Musical|Romance,https://www.imdb.com/title/tt0382330
+87960,613,4.1094904,Between the Folds (2008),Documentary,https://www.imdb.com/title/tt1253565
+110,623,4.6981883,Braveheart (1995),Action|Drama|War,https://www.imdb.com/title/tt0112573
+86237,623,4.655527,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+2028,623,4.3578,Saving Private Ryan (1998),Action|Drama|War,https://www.imdb.com/title/tt0120815
+74787,623,4.3156347,My Name is Khan (2010),Drama|Romance,https://www.imdb.com/title/tt1188996
+86574,623,4.251565,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+3578,623,4.240042,Gladiator (2000),Action|Adventure|Drama,https://www.imdb.com/title/tt0172495
+73608,623,4.2261686,Heat (1972),Comedy|Drama|Romance,https://www.imdb.com/title/tt0068688
+858,623,4.1619773,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+65672,623,4.1283665,Grbavica: The Land of My Dreams (Grbavica) (2006),Drama,https://www.imdb.com/title/tt0464029
+1036,623,4.0983286,Die Hard (1988),Action|Crime|Thriller,https://www.imdb.com/title/tt0095016
+86237,633,4.7216578,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+318,633,4.689955,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+356,633,4.6107893,Forrest Gump (1994),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0109830
+2324,633,4.584184,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0118799
+26674,633,4.5058293,Prime Suspect (1991),Crime|Drama|Mystery|Thriller,https://www.imdb.com/title/tt0098898
+527,633,4.4336176,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+2959,633,4.4188657,Fight Club (1999),Action|Crime|Drama|Thriller,https://www.imdb.com/title/tt0137523
+2329,633,4.405631,American History X (1998),Crime|Drama,https://www.imdb.com/title/tt0120586
+79987,633,4.4011865,Gainsbourg (Vie Héroïque) (2010),Drama|Musical|Romance,https://www.imdb.com/title/tt1329457
+92494,633,4.3906507,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+27365,642,5.0253158,"River, The (Joki) (2001)",Drama,https://www.imdb.com/title/tt0248928
+26153,642,4.757709,Grand Prix (1966),Drama,https://www.imdb.com/title/tt0060472
+47,642,4.701115,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,https://www.imdb.com/title/tt0114369
+593,642,4.6711965,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,https://www.imdb.com/title/tt0102926
+6,642,4.6480026,Heat (1995),Action|Crime|Thriller,https://www.imdb.com/title/tt0113277
+91707,642,4.5907197,In the Land of Blood and Honey (2011),Drama|Romance|War,https://www.imdb.com/title/tt1714209
+4262,642,4.56931,Scarface (1983),Action|Crime|Drama,https://www.imdb.com/title/tt0086250
+110,642,4.560219,Braveheart (1995),Action|Drama|War,https://www.imdb.com/title/tt0112573
+318,642,4.55429,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+99764,642,4.550647,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+82934,673,5.167748,"Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers, The (2009)",Documentary,https://www.imdb.com/title/tt1319726
+92500,673,5.0403323,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26453,673,5.019033,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+38824,673,4.9529495,Mother of Mine (Äideistä parhain) (2005),Drama,https://www.imdb.com/title/tt0343221
+92475,673,4.938848,All Watched Over by Machines of Loving Grace (2011),Documentary,https://www.imdb.com/title/tt1955162
+2858,673,4.829108,American Beauty (1999),Comedy|Drama,https://www.imdb.com/title/tt0169547
+44555,673,4.805616,"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,https://www.imdb.com/title/tt0405094
+88837,673,4.7799435,"Trotsky, The (2009)",Comedy,https://www.imdb.com/title/tt1295072
+86668,673,4.769731,Louis Theroux: Law & Disorder (2008),Documentary,https://www.imdb.com/title/tt1347439
+8794,673,4.7599187,"Unfinished Piece for a Player Piano, An (Neokonchennaya pyesa dlya mekhanicheskogo pianino) (1977)",Drama,https://www.imdb.com/title/tt0076446
+86237,683,5.7695227,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+26347,683,5.2212086,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+98956,683,4.970764,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+92500,683,4.95013,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+97648,683,4.9227405,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+5280,683,4.896885,Salmonberries (1991),Drama,https://www.imdb.com/title/tt0102829
+6119,683,4.896017,Santa Claus Is a Stinker (Le Père Noël est une ordure) (1982),Comedy,https://www.imdb.com/title/tt0084555
+2494,683,4.8621435,"Last Days, The (1998)",Documentary,https://www.imdb.com/title/tt0174852
+2930,683,4.856473,Return with Honor (1998),Documentary,https://www.imdb.com/title/tt0176093
+3353,683,4.8301044,"Closer You Get, The (2000)",Comedy|Romance,https://www.imdb.com/title/tt0218112
+86574,737,5.3550296,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+92236,737,4.862939,In Darkness (2011),Drama,https://www.imdb.com/title/tt1417075
+6938,737,4.8222103,Billabong Odyssey (2003),Documentary,https://www.imdb.com/title/tt0379713
+2571,737,4.814804,"Matrix, The (1999)",Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0133093
+86237,737,4.760516,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+58559,737,4.7421055,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,https://www.imdb.com/title/tt0468569
+89386,737,4.7211046,Pearl Jam Twenty (2011),Documentary|Musical,https://www.imdb.com/title/tt1417592
+318,737,4.711219,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+50,737,4.667193,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,https://www.imdb.com/title/tt0114814
+85780,737,4.624179,Family Guy Presents: It's a Trap (2010),Animation|Comedy|Sci-Fi,https://www.imdb.com/title/tt1701991
+86237,744,5.331094,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+86574,744,4.403755,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+92494,744,4.347029,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+4851,744,4.2750044,Things Behind the Sun (2001),Drama,https://www.imdb.com/title/tt0245501
+260,744,4.261121,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+86504,744,4.2441254,Voices from the List (2004),Documentary,https://www.imdb.com/title/tt0405455
+27550,744,4.240532,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+1210,744,4.225626,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0086190
+26347,744,4.224422,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+27064,744,4.2188797,Batman & Mr. Freeze: Subzero (1998),Action|Animation|Children|Crime,https://www.imdb.com/title/tt0143127
+620,756,5.666632,Scream of Stone (Cerro Torre: Schrei aus Stein) (1991),Drama,https://www.imdb.com/title/tt0102855
+61941,756,5.37163,Humboldt County (2008),Comedy|Drama,https://www.imdb.com/title/tt0870122
+52784,756,5.3507876,Sharkwater (2006),Documentary,https://www.imdb.com/title/tt0856008
+84716,756,5.245926,Castaway on the Moon (Kimssi pyoryugi) (2009),Comedy|Drama|Romance,https://www.imdb.com/title/tt1499666
+77353,756,5.2153993,Achilles and the Tortoise (Akiresu to kame) (2008),Comedy,https://www.imdb.com/title/tt1217243
+92494,756,5.2070255,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+69574,756,5.2019367,Phoebe in Wonderland (2008),Drama|Fantasy,https://www.imdb.com/title/tt1034325
+2324,756,5.182061,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0118799
+99813,756,5.181149,"Batman: The Dark Knight Returns, Part 2 (2013)",Action|Animation,https://www.imdb.com/title/tt2166834
+2604,756,5.151952,Let it Come Down: The Life of Paul Bowles (1998),Documentary,https://www.imdb.com/title/tt0168950
+26453,762,4.6550775,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+2538,762,4.5872226,Dancemaker (1998),Documentary,https://www.imdb.com/title/tt0175550
+26743,762,4.53337,Only Yesterday (Omohide poro poro) (1991),Animation|Drama,https://www.imdb.com/title/tt0102587
+720,762,4.4797506,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,https://www.imdb.com/title/tt0118114
+1471,762,4.4269586,Boys Life 2 (1997),Drama,https://www.imdb.com/title/tt0118762
+745,762,4.389331,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy,https://www.imdb.com/title/tt0112691
+84716,762,4.381473,Castaway on the Moon (Kimssi pyoryugi) (2009),Comedy|Drama|Romance,https://www.imdb.com/title/tt1499666
+1148,762,4.317405,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,https://www.imdb.com/title/tt0108598
+95858,762,4.2883353,For the Birds (2000),Animation|Children|Comedy,https://www.imdb.com/title/tt0248808
+74504,762,4.2332606,Letters to Father Jacob (Postia pappi Jaakobille) (2009),Drama,https://www.imdb.com/title/tt1364487
+8674,772,4.9510508,Disco Pigs (2001),Drama,https://www.imdb.com/title/tt0236157
+82150,772,4.916297,Bunny and the Bull (2009),Adventure|Comedy|Drama,https://www.imdb.com/title/tt1251725
+79494,772,4.8575077,Safe Sex (1999),Comedy,https://www.imdb.com/title/tt0220016
+4993,772,4.817152,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,https://www.imdb.com/title/tt0120737
+53406,772,4.8138742,Go (2001),Drama,https://www.imdb.com/title/tt0299937
+5952,772,4.8002114,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,https://www.imdb.com/title/tt0167261
+27922,772,4.797303,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+7153,772,4.7743406,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,https://www.imdb.com/title/tt0167260
+27009,772,4.7676315,"Torrente, el brazo tonto de la ley (1998)",Comedy|Crime,https://www.imdb.com/title/tt0120868
+77233,772,4.767281,"Union: The Business Behind Getting High, The (2007)",Comedy|Documentary,https://www.imdb.com/title/tt1039647
+86237,796,5.007254,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+1721,796,4.901289,Titanic (1997),Drama|Romance,https://www.imdb.com/title/tt0120338
+86504,796,4.7172046,Voices from the List (2004),Documentary,https://www.imdb.com/title/tt0405455
+97648,796,4.667801,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+60147,796,4.5161543,Roman de gare (2007),Drama,https://www.imdb.com/title/tt0889652
+27922,796,4.4921455,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+527,796,4.464091,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+3404,796,4.3779216,Titanic (1953),Action|Drama,https://www.imdb.com/title/tt0046435
+8794,796,4.3673983,"Unfinished Piece for a Player Piano, An (Neokonchennaya pyesa dlya mekhanicheskogo pianino) (1977)",Drama,https://www.imdb.com/title/tt0076446
+27550,796,4.3011656,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+26463,799,4.3517814,Barefoot Gen (Hadashi no Gen) (1983),Animation|Drama|War,https://www.imdb.com/title/tt0085218
+79677,799,4.1618543,"Two Escobars, The (2010)",Crime|Documentary,https://www.imdb.com/title/tt1522863
+92500,799,4.1579566,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+5018,799,4.083354,Motorama (1991),Adventure|Comedy|Crime|Drama|Fantasy|Mystery|Sci-Fi|Thriller,https://www.imdb.com/title/tt0104922
+26347,799,4.0778832,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+923,799,4.045506,Citizen Kane (1941),Drama|Mystery,https://www.imdb.com/title/tt0033467
+26133,799,4.0329657,"Charlie Brown Christmas, A (1965)",Animation|Children|Comedy,https://www.imdb.com/title/tt0059026
+1230,799,4.0192327,Annie Hall (1977),Comedy|Romance,https://www.imdb.com/title/tt0075686
+3435,799,4.0150633,Double Indemnity (1944),Crime|Drama|Film-Noir,https://www.imdb.com/title/tt0036775
+25750,799,3.9991696,Sherlock Jr. (1924),Comedy|Fantasy|Romance,https://www.imdb.com/title/tt0015324
+593,804,4.7163243,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,https://www.imdb.com/title/tt0102926
+318,804,4.6131277,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+96020,804,4.604048,Sidewalls (Medianeras) (2011),Drama,https://www.imdb.com/title/tt1235841
+527,804,4.533323,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+65188,804,4.5308514,Dear Zachary: A Letter to a Son About His Father (2008),Documentary,https://www.imdb.com/title/tt1152758
+356,804,4.513166,Forrest Gump (1994),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0109830
+47,804,4.5098805,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,https://www.imdb.com/title/tt0114369
+2858,804,4.509645,American Beauty (1999),Comedy|Drama,https://www.imdb.com/title/tt0169547
+2329,804,4.50363,American History X (1998),Crime|Drama,https://www.imdb.com/title/tt0120586
+7002,804,4.5013466,Mindwalk (1990),Drama,https://www.imdb.com/title/tt0100151
+86237,808,4.579048,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+1196,808,4.5644035,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0080684
+260,808,4.564036,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+92494,808,4.541576,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+4993,808,4.4476357,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,https://www.imdb.com/title/tt0120737
+7153,808,4.3856435,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,https://www.imdb.com/title/tt0167260
+2571,808,4.3578506,"Matrix, The (1999)",Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0133093
+5952,808,4.3377852,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,https://www.imdb.com/title/tt0167261
+1210,808,4.293889,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0086190
+1198,808,4.2841015,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,https://www.imdb.com/title/tt0082971
+86237,830,5.4543476,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+6511,830,5.0260344,Jesus (1979),Drama,https://www.imdb.com/title/tt0079368
+97648,830,4.6172056,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+89386,830,4.5531178,Pearl Jam Twenty (2011),Documentary|Musical,https://www.imdb.com/title/tt1417592
+25812,830,4.5125403,"Scarlet Pimpernel, The (1934)",Adventure|Comedy,https://www.imdb.com/title/tt0025748
+27550,830,4.5077167,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+57183,830,4.429447,Like Stars on Earth (Taare Zameen Par) (2007),Drama,https://www.imdb.com/title/tt0986264
+620,830,4.4000654,Scream of Stone (Cerro Torre: Schrei aus Stein) (1991),Drama,https://www.imdb.com/title/tt0102855
+64114,830,4.3834367,Fireproof (2008),Drama|Romance,https://www.imdb.com/title/tt1129423
+73608,830,4.3827324,Heat (1972),Comedy|Drama|Romance,https://www.imdb.com/title/tt0068688
+86237,833,5.194568,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+5865,833,5.168737,Tattoo (1981),Drama|Thriller,https://www.imdb.com/title/tt0083178
+8403,833,5.0338826,Helen of Troy (1956),Action|Adventure|Drama|Romance|War,https://www.imdb.com/title/tt0049301
+51660,833,4.865155,"Ultimate Gift, The (2006)",Drama,https://www.imdb.com/title/tt0482629
+86574,833,4.7510147,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+49265,833,4.688844,Shooting Dogs (a.k.a. Beyond the Gates) (2005),Documentary|Drama|War,https://www.imdb.com/title/tt0420901
+2881,833,4.657615,Double Jeopardy (1999),Action|Crime|Drama|Thriller,https://www.imdb.com/title/tt0150377
+733,833,4.6393843,"Rock, The (1996)",Action|Adventure|Thriller,https://www.imdb.com/title/tt0117500
+27724,833,4.615345,Hitler: The Rise of Evil (2003),Drama,https://www.imdb.com/title/tt0346293
+68099,833,4.594882,Apollo 13: To the Edge and Back (1994),Documentary,https://www.imdb.com/title/tt0180443
+82143,847,5.132632,Alone in the Wilderness (2004),Documentary,https://www.imdb.com/title/tt0437806
+40697,847,5.0268965,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+53406,847,4.9840565,Go (2001),Drama,https://www.imdb.com/title/tt0299937
+6408,847,4.934559,Animals are Beautiful People (1974),Comedy|Documentary,https://www.imdb.com/title/tt0071143
+92475,847,4.916604,All Watched Over by Machines of Loving Grace (2011),Documentary,https://www.imdb.com/title/tt1955162
+5767,847,4.903698,Teddy Bear (Mis) (1981),Comedy|Crime,https://www.imdb.com/title/tt0082755
+77854,847,4.8833804,"Work of Director Michel Gondry, The (2003)",Comedy|Documentary,https://www.imdb.com/title/tt0384700
+60904,847,4.868878,Heart of a Dog (Sobachye serdtse) (1988),Comedy|Drama|Sci-Fi,https://www.imdb.com/title/tt0096126
+58992,847,4.8678,Joy Division (2007),Documentary|Musical,https://www.imdb.com/title/tt1097239
+4778,847,4.8554883,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+92500,853,5.088056,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26347,853,4.902168,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+92498,853,4.766923,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+93040,853,4.764206,"Civil War, The (1990)",Documentary|War,https://www.imdb.com/title/tt0098769
+98795,853,4.73378,Jazz (2001),Documentary,https://www.imdb.com/title/tt0221300
+912,853,4.7216983,Casablanca (1942),Drama|Romance,https://www.imdb.com/title/tt0034583
+26587,853,4.675803,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,https://www.imdb.com/title/tt0092337
+79677,853,4.6666937,"Two Escobars, The (2010)",Crime|Documentary,https://www.imdb.com/title/tt1522863
+3022,853,4.6611533,"General, The (1926)",Comedy|War,https://www.imdb.com/title/tt0017925
+6669,853,4.654235,Ikiru (1952),Drama,https://www.imdb.com/title/tt0044741
+86237,857,6.4037347,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,857,5.152344,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+92500,857,4.892992,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26347,857,4.8864746,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+77177,857,4.799685,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+92494,857,4.7391696,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+87960,857,4.6325088,Between the Folds (2008),Documentary,https://www.imdb.com/title/tt1253565
+98956,857,4.436542,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+73513,857,4.427259,"Swades: We, the People (Our Country) (2004)",Drama,https://www.imdb.com/title/tt0367110
+27550,857,4.3857894,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+4778,858,4.053668,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+40697,858,4.0484734,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+3881,858,4.018428,Phish: Bittersweet Motel (2000),Documentary,https://www.imdb.com/title/tt0168515
+5465,858,4.010983,All About Lily Chou-Chou (Riri Shushu no subete) (2001),Crime|Drama|Thriller,https://www.imdb.com/title/tt0297721
+92535,858,3.9746957,Louis C.K.: Live at the Beacon Theater (2011),Comedy,https://www.imdb.com/title/tt2112999
+86347,858,3.9647334,Louis C.K.: Chewed Up (2008),Comedy,https://www.imdb.com/title/tt1190722
+8804,858,3.8917098,"Story of Women (Affaire de femmes, Une) (1988)",Drama,https://www.imdb.com/title/tt0096336
+30803,858,3.8878255,3-Iron (Bin-jip) (2004),Drama|Romance,https://www.imdb.com/title/tt0423866
+60135,858,3.8824244,Surfwise (2007),Documentary,https://www.imdb.com/title/tt0479547
+665,858,3.8427877,Underground (1995),Comedy|Drama|War,https://www.imdb.com/title/tt0114787
+98956,874,3.1944528,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+92500,874,2.8939288,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+54621,874,2.857432,Molière (2007),Comedy|Drama|Romance,https://www.imdb.com/title/tt0796335
+720,874,2.754602,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,https://www.imdb.com/title/tt0118114
+745,874,2.7525287,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy,https://www.imdb.com/title/tt0112691
+1148,874,2.750361,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,https://www.imdb.com/title/tt0108598
+85259,874,2.7493334,Winnie the Pooh and the Honey Tree (1966),Animation|Children,https://www.imdb.com/title/tt0061199
+86237,874,2.728772,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+60904,874,2.7244263,Heart of a Dog (Sobachye serdtse) (1988),Comedy|Drama|Sci-Fi,https://www.imdb.com/title/tt0096126
+27922,874,2.712757,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+86237,876,6.7188234,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+26379,876,6.0412955,Jesus of Nazareth (1977),Drama,https://www.imdb.com/title/tt0075520
+82934,876,5.7183437,"Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers, The (2009)",Documentary,https://www.imdb.com/title/tt1319726
+2930,876,5.4113016,Return with Honor (1998),Documentary,https://www.imdb.com/title/tt0176093
+7153,876,5.397716,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,https://www.imdb.com/title/tt0167260
+59295,876,5.3806376,Expelled: No Intelligence Allowed (2008),Documentary,https://www.imdb.com/title/tt1091617
+4993,876,5.3478303,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,https://www.imdb.com/title/tt0120737
+5952,876,5.347377,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,https://www.imdb.com/title/tt0167261
+26649,876,5.33469,Lonesome Dove (1989),Adventure|Drama|Western,https://www.imdb.com/title/tt0096639
+57845,876,5.2683415,Joe Strummer: The Future Is Unwritten (2007),Documentary,https://www.imdb.com/title/tt0800099
+86237,879,5.1082654,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+92500,879,5.0811644,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+34411,879,5.0443444,End of Suburbia: Oil Depletion and the Collapse of the American Dream (2004),Documentary,https://www.imdb.com/title/tt0446320
+93040,879,4.9668183,"Civil War, The (1990)",Documentary|War,https://www.imdb.com/title/tt0098769
+82143,879,4.939175,Alone in the Wilderness (2004),Documentary,https://www.imdb.com/title/tt0437806
+84156,879,4.9357195,Happy People: A Year in the Taiga (2010),Documentary,https://www.imdb.com/title/tt1683876
+92498,879,4.933228,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+85316,879,4.92275,Winnie the Pooh and Tigger Too (1974),Animation|Children,https://www.imdb.com/title/tt0072410
+7106,879,4.905466,Black and White in Color (Noirs et blancs en couleur) (1976),Drama|War,https://www.imdb.com/title/tt0074972
+98795,879,4.903107,Jazz (2001),Documentary,https://www.imdb.com/title/tt0221300
+923,883,4.8870645,Citizen Kane (1941),Drama|Mystery,https://www.imdb.com/title/tt0033467
+73824,883,4.8465495,Abigail's Party (1977),Drama,https://www.imdb.com/title/tt0075622
+1768,883,4.8110304,Mother and Son (Mat i syn) (1997),Drama,https://www.imdb.com/title/tt0119711
+912,883,4.7852216,Casablanca (1942),Drama|Romance,https://www.imdb.com/title/tt0034583
+750,883,4.734876,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,https://www.imdb.com/title/tt0057012
+858,883,4.731136,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+26453,883,4.7155347,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+58425,883,4.704422,Heima (2007),Documentary,https://www.imdb.com/title/tt1094594
+26587,883,4.687645,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,https://www.imdb.com/title/tt0092337
+1230,883,4.6770353,Annie Hall (1977),Comedy|Romance,https://www.imdb.com/title/tt0075686
+1347,897,5.806999,"Nightmare on Elm Street, A (1984)",Horror|Thriller,https://www.imdb.com/title/tt0087800
+8403,897,5.5704265,Helen of Troy (1956),Action|Adventure|Drama|Romance|War,https://www.imdb.com/title/tt0049301
+78247,897,5.5110335,"Drawn Together Movie: The Movie!, The (2010)",Animation|Comedy,https://www.imdb.com/title/tt1546036
+26811,897,5.4837575,"Bride with White Hair, The (Bai fa mo nu zhuan) (1993)",Action|Fantasy|Romance,https://www.imdb.com/title/tt0106342
+1970,897,5.472213,"Nightmare on Elm Street 3: Dream Warriors, A (1987)",Horror|Thriller,https://www.imdb.com/title/tt0093629
+3995,897,5.453862,Boys Life 3 (2000),Drama,https://www.imdb.com/title/tt0265101
+3875,897,5.370219,"Devil Rides Out, The (1968)",Horror,https://www.imdb.com/title/tt0062885
+97957,897,5.3489857,Excision (2012),Crime|Drama|Horror|Thriller,https://www.imdb.com/title/tt1984153
+8993,897,5.3232336,"Family Jewels, The (1965)",Comedy,https://www.imdb.com/title/tt0059166
+8258,897,5.320177,Citizen Toxie: The Toxic Avenger IV (2000),Action|Comedy|Horror,https://www.imdb.com/title/tt0212879
+86237,898,5.281303,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,898,4.9396715,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+26347,898,4.4908905,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+77177,898,4.421926,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+318,898,4.385892,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+92500,898,4.357049,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26528,898,4.30437,Anne of Green Gables (1985),Children|Drama,https://www.imdb.com/title/tt0088727
+2930,898,4.3024125,Return with Honor (1998),Documentary,https://www.imdb.com/title/tt0176093
+527,898,4.287337,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+953,898,4.2271647,It's a Wonderful Life (1946),Drama|Fantasy|Romance,https://www.imdb.com/title/tt0038650
+97648,918,5.432049,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+744,918,5.284076,Brothers in Trouble (1995),Drama,https://www.imdb.com/title/tt0112586
+86668,918,5.2651334,Louis Theroux: Law & Disorder (2008),Documentary,https://www.imdb.com/title/tt1347439
+73824,918,5.2016125,Abigail's Party (1977),Drama,https://www.imdb.com/title/tt0075622
+3495,918,5.077536,Roadside Prophets (1992),Comedy|Drama,https://www.imdb.com/title/tt0105267
+26743,918,5.0676503,Only Yesterday (Omohide poro poro) (1991),Animation|Drama,https://www.imdb.com/title/tt0102587
+5129,918,5.058259,Big Bad Love (2001),Drama,https://www.imdb.com/title/tt0260746
+77353,918,5.052519,Achilles and the Tortoise (Akiresu to kame) (2008),Comedy,https://www.imdb.com/title/tt1217243
+136,918,5.002357,From the Journals of Jean Seberg (1995),Documentary,https://www.imdb.com/title/tt0113125
+76111,918,4.9886265,About Elly (Darbareye Elly) (2009),Drama|Mystery,https://www.imdb.com/title/tt1360860
+86237,939,5.1591606,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+86574,939,4.9146214,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+84273,939,4.609978,Zeitgeist: Moving Forward (2011),Documentary,https://www.imdb.com/title/tt1781069
+110,939,4.59064,Braveheart (1995),Action|Drama|War,https://www.imdb.com/title/tt0112573
+2028,939,4.4997845,Saving Private Ryan (1998),Action|Drama|War,https://www.imdb.com/title/tt0120815
+318,939,4.4819155,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+52784,939,4.3843875,Sharkwater (2006),Documentary,https://www.imdb.com/title/tt0856008
+3147,939,4.3756924,"Green Mile, The (1999)",Crime|Drama,https://www.imdb.com/title/tt0120689
+356,939,4.358576,Forrest Gump (1994),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0109830
+457,939,4.314555,"Fugitive, The (1993)",Thriller,https://www.imdb.com/title/tt0106977
+60201,950,3.9232872,"Color of Pomegranates, The (Sayat Nova) (1968)",Drama,https://www.imdb.com/title/tt0063555
+87004,950,3.7849894,Pina (2011),Documentary|Musical,https://www.imdb.com/title/tt1440266
+106,950,3.6493185,Nobody Loves Me (Keiner liebt mich) (1994),Comedy|Drama,https://www.imdb.com/title/tt0110251
+26453,950,3.623782,Smiley's People (1982),Drama|Mystery,https://www.imdb.com/title/tt0083480
+5465,950,3.6017401,All About Lily Chou-Chou (Riri Shushu no subete) (2001),Crime|Drama|Thriller,https://www.imdb.com/title/tt0297721
+47404,950,3.5837553,Mind Game (2004),Adventure|Animation|Comedy|Fantasy|Romance|Sci-Fi,https://www.imdb.com/title/tt0452039
+1211,950,3.571463,"Wings of Desire (Himmel über Berlin, Der) (1987)",Drama|Fantasy|Romance,https://www.imdb.com/title/tt0093191
+42783,950,3.565511,Shadows of Our Forgotten Ancestors (Tini zabutykh predkiv) (1964),Drama|Romance,https://www.imdb.com/title/tt0058642
+5953,950,3.5557468,Devils on the Doorstep (Guizi lai le) (2000),Drama|War,https://www.imdb.com/title/tt0245929
+1306,950,3.5348277,Until the End of the World (Bis ans Ende der Welt) (1991),Adventure|Drama|Sci-Fi,https://www.imdb.com/title/tt0101458
+527,961,4.073517,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+36,961,4.039963,Dead Man Walking (1995),Crime|Drama,https://www.imdb.com/title/tt0112818
+27550,961,3.9993777,Hell House (2001),Documentary,https://www.imdb.com/title/tt0301235
+86504,961,3.9745064,Voices from the List (2004),Documentary,https://www.imdb.com/title/tt0405455
+97648,961,3.9031332,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+86237,961,3.8942144,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+2762,961,3.8826544,"Sixth Sense, The (1999)",Drama|Horror|Mystery,https://www.imdb.com/title/tt0167404
+265,961,3.8711548,Like Water for Chocolate (Como agua para chocolate) (1992),Drama|Fantasy|Romance,https://www.imdb.com/title/tt0103994
+26049,961,3.8572996,Fires on the Plain (Nobi) (1959),Drama|War,https://www.imdb.com/title/tt0053121
+27811,961,3.8484054,Buddy (2003),Comedy|Drama,https://www.imdb.com/title/tt0371589
+86237,970,4.72204,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+593,970,4.4329877,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,https://www.imdb.com/title/tt0102926
+527,970,4.4102025,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+858,970,4.37912,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+110,970,4.377547,Braveheart (1995),Action|Drama|War,https://www.imdb.com/title/tt0112573
+2028,970,4.373265,Saving Private Ryan (1998),Action|Drama|War,https://www.imdb.com/title/tt0120815
+318,970,4.361853,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+296,970,4.2827415,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+7502,970,4.249567,Band of Brothers (2001),Action|Drama|War,https://www.imdb.com/title/tt0185906
+260,970,4.243301,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+2604,974,4.788835,Let it Come Down: The Life of Paul Bowles (1998),Documentary,https://www.imdb.com/title/tt0168950
+76111,974,4.66832,About Elly (Darbareye Elly) (2009),Drama|Mystery,https://www.imdb.com/title/tt1360860
+40697,974,4.57518,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+296,974,4.459434,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,https://www.imdb.com/title/tt0110912
+94024,974,4.411593,Louis Theroux: The Most Hated Family in America in Crisis (2011),Documentary,https://www.imdb.com/title/tt1883251
+90630,974,4.3865285,Miss Representation (2011),Documentary,https://www.imdb.com/title/tt1784538
+6896,974,4.3295593,Shoah (1985),Documentary|War,https://www.imdb.com/title/tt0090015
+136,974,4.3124895,From the Journals of Jean Seberg (1995),Documentary,https://www.imdb.com/title/tt0113125
+858,974,4.3080225,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+70015,974,4.288765,Polytechnique (2009),Crime|Drama,https://www.imdb.com/title/tt1194238
+99764,976,5.8618684,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+2768,976,5.463867,Stiff Upper Lips (1998),Comedy,https://www.imdb.com/title/tt0120210
+96062,976,5.4463673,Jekyll (2007),Crime|Horror|Thriller,https://www.imdb.com/title/tt0497298
+3592,976,5.382501,"Time Masters (Maîtres du temps, Les) (1982)",Animation|Sci-Fi,https://www.imdb.com/title/tt0084315
+41136,976,5.2790737,"Driver, The (1978)",Action|Crime|Film-Noir,https://www.imdb.com/title/tt0077474
+41828,976,5.241822,Don't Look Now: We're Being Shot At (La grande vadrouille) (1966),Comedy|War,https://www.imdb.com/title/tt0060474
+8660,976,5.2293878,"Deluge, The (Potop) (1974)",Adventure|War,https://www.imdb.com/title/tt0072021
+41699,976,5.2205296,"Ivan the Terrible, Part Two (Ivan Groznyy II: Boyarsky zagovor) (1958)",Drama,https://www.imdb.com/title/tt0051790
+7561,976,5.219188,Paperhouse (1988),Fantasy|Horror|Thriller,https://www.imdb.com/title/tt0098061
+4307,976,5.1722956,"Fast Food, Fast Women (2000)",Comedy|Romance,https://www.imdb.com/title/tt0206742
+51503,1005,5.0240607,Wise Guys (1986),Comedy|Crime,https://www.imdb.com/title/tt0092226
+6511,1005,4.9573674,Jesus (1979),Drama,https://www.imdb.com/title/tt0079368
+96062,1005,4.854794,Jekyll (2007),Crime|Horror|Thriller,https://www.imdb.com/title/tt0497298
+4851,1005,4.8367906,Things Behind the Sun (2001),Drama,https://www.imdb.com/title/tt0245501
+6398,1005,4.708805,Le Mans (1971),Action|Adventure,https://www.imdb.com/title/tt0067334
+3850,1005,4.69133,Whatever Happened to Aunt Alice? (1969),Crime|Thriller,https://www.imdb.com/title/tt0065206
+8696,1005,4.686165,Breezy (1973),Drama|Romance,https://www.imdb.com/title/tt0069822
+4006,1005,4.6391287,Transformers: The Movie (1986),Adventure|Animation|Children|Sci-Fi,https://www.imdb.com/title/tt0092106
+8990,1005,4.532627,"Delicate Delinquent, The (1957)",Comedy,https://www.imdb.com/title/tt0050301
+99764,1005,4.522361,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+94024,1016,4.258922,Louis Theroux: The Most Hated Family in America in Crisis (2011),Documentary,https://www.imdb.com/title/tt1883251
+79677,1016,4.0616717,"Two Escobars, The (2010)",Crime|Documentary,https://www.imdb.com/title/tt1522863
+26009,1016,3.9244816,"Burmese Harp, The (Biruma no tategoto) (1956)",Drama|War,https://www.imdb.com/title/tt0049012
+26587,1016,3.8306425,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,https://www.imdb.com/title/tt0092337
+1230,1016,3.8220897,Annie Hall (1977),Comedy|Romance,https://www.imdb.com/title/tt0075686
+1534,1016,3.8181226,"Bonheur, Le (1965)",Drama,https://www.imdb.com/title/tt0058985
+922,1016,3.796846,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,https://www.imdb.com/title/tt0043014
+26082,1016,3.7890718,Harakiri (Seppuku) (1962),Drama,https://www.imdb.com/title/tt0056058
+7396,1016,3.7830021,Scenes From a Marriage (Scener ur ett äktenskap) (1973),Drama,https://www.imdb.com/title/tt0070644
+3435,1016,3.773964,Double Indemnity (1944),Crime|Drama|Film-Noir,https://www.imdb.com/title/tt0036775
+858,1025,4.9540095,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+1214,1025,4.856608,Alien (1979),Horror|Sci-Fi,https://www.imdb.com/title/tt0078748
+593,1025,4.853412,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,https://www.imdb.com/title/tt0102926
+318,1025,4.8439198,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+99764,1025,4.841548,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+1221,1025,4.830188,"Godfather: Part II, The (1974)",Crime|Drama,https://www.imdb.com/title/tt0071562
+2019,1025,4.7822385,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama,https://www.imdb.com/title/tt0047478
+527,1025,4.7625785,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+7502,1025,4.7601237,Band of Brothers (2001),Action|Drama|War,https://www.imdb.com/title/tt0185906
+1200,1025,4.7568016,Aliens (1986),Action|Adventure|Horror|Sci-Fi,https://www.imdb.com/title/tt0090605
+86237,1031,5.16582,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+86574,1031,4.950988,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+318,1031,4.395215,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+74787,1031,4.3332076,My Name is Khan (2010),Drama|Romance,https://www.imdb.com/title/tt1188996
+79132,1031,4.3087735,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,https://www.imdb.com/title/tt1375666
+356,1031,4.288612,Forrest Gump (1994),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0109830
+64511,1031,4.273873,Dean Spanley (2008),Comedy|Drama,https://www.imdb.com/title/tt1135968
+97648,1031,4.212281,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+58559,1031,4.182319,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,https://www.imdb.com/title/tt0468569
+78499,1031,4.1769166,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,https://www.imdb.com/title/tt0435761
+86237,1051,4.8645463,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+2571,1051,4.274322,"Matrix, The (1999)",Action|Sci-Fi|Thriller,https://www.imdb.com/title/tt0133093
+86574,1051,4.2456126,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+318,1051,4.226182,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+260,1051,4.19308,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0076759
+89386,1051,4.173365,Pearl Jam Twenty (2011),Documentary|Musical,https://www.imdb.com/title/tt1417592
+3578,1051,4.1704226,Gladiator (2000),Action|Adventure|Drama,https://www.imdb.com/title/tt0172495
+1210,1051,4.1616125,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0086190
+356,1051,4.155422,Forrest Gump (1994),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0109830
+92236,1051,4.1497054,In Darkness (2011),Drama,https://www.imdb.com/title/tt1417075
+86237,1068,5.643625,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+6511,1068,5.0577087,Jesus (1979),Drama,https://www.imdb.com/title/tt0079368
+57183,1068,5.0085917,Like Stars on Earth (Taare Zameen Par) (2007),Drama,https://www.imdb.com/title/tt0986264
+96062,1068,5.006938,Jekyll (2007),Crime|Horror|Thriller,https://www.imdb.com/title/tt0497298
+86574,1068,4.988683,Foo Fighters: Back and Forth (2011),Documentary|Musical,https://www.imdb.com/title/tt1853563
+4851,1068,4.8608203,Things Behind the Sun (2001),Drama,https://www.imdb.com/title/tt0245501
+4335,1068,4.848524,Midnight Madness (1980),Comedy,https://www.imdb.com/title/tt0081159
+97648,1068,4.771775,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+318,1068,4.7608166,"Shawshank Redemption, The (1994)",Crime|Drama,https://www.imdb.com/title/tt0111161
+54621,1068,4.739153,Molière (2007),Comedy|Drama|Romance,https://www.imdb.com/title/tt0796335
+858,1084,4.232293,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+1221,1084,4.156855,"Godfather: Part II, The (1974)",Crime|Drama,https://www.imdb.com/title/tt0071562
+58559,1084,4.154166,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,https://www.imdb.com/title/tt0468569
+99764,1084,4.1051025,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+7153,1084,4.088077,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,https://www.imdb.com/title/tt0167260
+4993,1084,4.085257,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,https://www.imdb.com/title/tt0120737
+7502,1084,4.073172,Band of Brothers (2001),Action|Drama|War,https://www.imdb.com/title/tt0185906
+1196,1084,4.0586767,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,https://www.imdb.com/title/tt0080684
+1201,1084,4.056366,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western,https://www.imdb.com/title/tt0060196
+5952,1084,4.028383,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,https://www.imdb.com/title/tt0167261
+55106,1088,4.586321,Design for Living (1933),Comedy|Romance,https://www.imdb.com/title/tt0023940
+26277,1088,4.4783607,Slither (1973),Comedy|Crime|Thriller,https://www.imdb.com/title/tt0069282
+86237,1088,4.471128,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+377,1088,4.4039307,Speed (1994),Action|Romance|Thriller,https://www.imdb.com/title/tt0111257
+79863,1088,4.398866,Black Water (2007),Adventure|Drama|Horror|Thriller,https://www.imdb.com/title/tt0816436
+7912,1088,4.3659344,Finder's Fee (2001),Drama|Thriller,https://www.imdb.com/title/tt0192023
+3409,1088,4.3302817,Final Destination (2000),Drama|Thriller,https://www.imdb.com/title/tt0195714
+51503,1088,4.300185,Wise Guys (1986),Comedy|Crime,https://www.imdb.com/title/tt0092226
+1036,1088,4.266671,Die Hard (1988),Action|Crime|Thriller,https://www.imdb.com/title/tt0095016
+589,1088,4.249551,Terminator 2: Judgment Day (1991),Action|Sci-Fi,https://www.imdb.com/title/tt0103064
+92500,1127,4.7046576,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26325,1127,4.6366386,Hearts and Minds (1974),Documentary|War,https://www.imdb.com/title/tt0071604
+92498,1127,4.627307,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+27922,1127,4.5632744,Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998),Comedy|Documentary,https://www.imdb.com/title/tt0500140
+87960,1127,4.5594077,Between the Folds (2008),Documentary,https://www.imdb.com/title/tt1253565
+53406,1127,4.5164332,Go (2001),Drama,https://www.imdb.com/title/tt0299937
+92475,1127,4.5144978,All Watched Over by Machines of Loving Grace (2011),Documentary,https://www.imdb.com/title/tt1955162
+44555,1127,4.5089216,"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,https://www.imdb.com/title/tt0405094
+326,1127,4.5047216,To Live (Huozhe) (1994),Drama,https://www.imdb.com/title/tt0110081
+27002,1127,4.49103,From the Earth to the Moon (1998),Action|Documentary|Drama|Thriller,https://www.imdb.com/title/tt0120570
+1136,1133,4.543215,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,https://www.imdb.com/title/tt0071853
+745,1133,4.53735,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy,https://www.imdb.com/title/tt0112691
+1148,1133,4.534635,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime,https://www.imdb.com/title/tt0108598
+98956,1133,4.534003,Barfi! (2012),Comedy|Drama|Romance,https://www.imdb.com/title/tt2082197
+84716,1133,4.4966683,Castaway on the Moon (Kimssi pyoryugi) (2009),Comedy|Drama|Romance,https://www.imdb.com/title/tt1499666
+720,1133,4.494065,Wallace & Gromit: The Best of Aardman Animation (1996),Adventure|Animation|Comedy,https://www.imdb.com/title/tt0118114
+1199,1133,4.4235253,Brazil (1985),Fantasy|Sci-Fi,https://www.imdb.com/title/tt0088846
+26325,1133,4.4134436,Hearts and Minds (1974),Documentary|War,https://www.imdb.com/title/tt0071604
+53406,1133,4.4015403,Go (2001),Drama,https://www.imdb.com/title/tt0299937
+1394,1133,4.380882,Raising Arizona (1987),Comedy,https://www.imdb.com/title/tt0093822
+858,1139,4.3145776,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+1221,1139,4.1181736,"Godfather: Part II, The (1974)",Crime|Drama,https://www.imdb.com/title/tt0071562
+61406,1139,4.0754485,John Adams (2008),Drama,https://www.imdb.com/title/tt0472027
+93040,1139,4.0591183,"Civil War, The (1990)",Documentary|War,https://www.imdb.com/title/tt0098769
+92475,1139,3.923427,All Watched Over by Machines of Loving Grace (2011),Documentary,https://www.imdb.com/title/tt1955162
+527,1139,3.9084663,Schindler's List (1993),Drama|War,https://www.imdb.com/title/tt0108052
+82934,1139,3.8963654,"Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers, The (2009)",Documentary,https://www.imdb.com/title/tt1319726
+1207,1139,3.8769584,To Kill a Mockingbird (1962),Drama,https://www.imdb.com/title/tt0056592
+1252,1139,3.8769367,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,https://www.imdb.com/title/tt0071315
+6896,1139,3.85959,Shoah (1985),Documentary|War,https://www.imdb.com/title/tt0090015
+86237,1143,4.90525,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+246,1143,4.7055964,Hoop Dreams (1994),Documentary,https://www.imdb.com/title/tt0110057
+92500,1143,4.688874,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+44595,1143,4.635889,Resurrection (1980),Drama|Fantasy,https://www.imdb.com/title/tt0081414
+1537,1143,4.6328497,Shall We Dance? (Shall We Dansu?) (1996),Comedy|Drama|Romance,https://www.imdb.com/title/tt0117615
+26347,1143,4.602332,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+97648,1143,4.573794,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+77177,1143,4.553542,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+92498,1143,4.535009,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+5889,1143,4.5059557,"Cruel Romance, A (Zhestokij Romans) (1984)",Drama|Romance,https://www.imdb.com/title/tt0090368
+744,1157,5.870104,Brothers in Trouble (1995),Drama,https://www.imdb.com/title/tt0112586
+40697,1157,5.760577,Babylon 5,Sci-Fi,https://www.imdb.com/title/tt0105946
+8674,1157,5.730946,Disco Pigs (2001),Drama,https://www.imdb.com/title/tt0236157
+5129,1157,5.6640034,Big Bad Love (2001),Drama,https://www.imdb.com/title/tt0260746
+90630,1157,5.66353,Miss Representation (2011),Documentary,https://www.imdb.com/title/tt1784538
+59549,1157,5.6483736,Shelter (2007),Drama|Romance,https://www.imdb.com/title/tt0942384
+2604,1157,5.4984174,Let it Come Down: The Life of Paul Bowles (1998),Documentary,https://www.imdb.com/title/tt0168950
+69574,1157,5.4774284,Phoebe in Wonderland (2008),Drama|Fantasy,https://www.imdb.com/title/tt1034325
+8671,1157,5.461551,Zus & Zo (2001),Comedy|Drama|Romance,https://www.imdb.com/title/tt0245157
+768,1157,5.452788,Someone Else's America (1995),Drama,https://www.imdb.com/title/tt0114494
+86237,1160,5.1603713,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+97648,1160,4.2458177,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+110,1160,4.170189,Braveheart (1995),Action|Drama|War,https://www.imdb.com/title/tt0112573
+6511,1160,4.142749,Jesus (1979),Drama,https://www.imdb.com/title/tt0079368
+356,1160,4.101088,Forrest Gump (1994),Comedy|Drama|Romance|War,https://www.imdb.com/title/tt0109830
+26379,1160,4.0987377,Jesus of Nazareth (1977),Drama,https://www.imdb.com/title/tt0075520
+60147,1160,4.064804,Roman de gare (2007),Drama,https://www.imdb.com/title/tt0889652
+3753,1160,4.0632114,"Patriot, The (2000)",Action|Drama|War,https://www.imdb.com/title/tt0187393
+57183,1160,4.021609,Like Stars on Earth (Taare Zameen Par) (2007),Drama,https://www.imdb.com/title/tt0986264
+26347,1160,4.017765,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+99764,1165,4.1831326,It's Such a Beautiful Day (2012),Animation|Comedy|Drama|Fantasy|Sci-Fi,https://www.imdb.com/title/tt2396224
+3462,1165,4.1483974,Modern Times (1936),Comedy|Drama|Romance,https://www.imdb.com/title/tt0027977
+58425,1165,4.1422334,Heima (2007),Documentary,https://www.imdb.com/title/tt1094594
+26587,1165,4.132369,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,https://www.imdb.com/title/tt0092337
+4778,1165,4.121442,Children Underground (2001),Documentary,https://www.imdb.com/title/tt0264476
+750,1165,4.1201205,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,https://www.imdb.com/title/tt0057012
+92500,1165,4.11119,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+3307,1165,4.107408,City Lights (1931),Comedy|Drama|Romance,https://www.imdb.com/title/tt0021749
+858,1165,4.106288,"Godfather, The (1972)",Crime|Drama,https://www.imdb.com/title/tt0068646
+912,1165,4.098692,Casablanca (1942),Drama|Romance,https://www.imdb.com/title/tt0034583
+86237,1175,4.840757,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+92500,1175,4.368596,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+26347,1175,4.3160763,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!) (1975)",Comedy|Drama|Romance,https://www.imdb.com/title/tt0073179
+92494,1175,4.117724,Dylan Moran: Monster (2004),Comedy|Documentary,https://www.imdb.com/title/tt0439553
+92498,1175,4.0356035,Dylan Moran Live: What It Is (2009),Comedy,https://www.imdb.com/title/tt1583937
+93988,1175,4.006936,North & South (2004),Drama|Romance,https://www.imdb.com/title/tt0417349
+7669,1175,4.0027556,Pride and Prejudice (1995),Drama|Romance,https://www.imdb.com/title/tt0112130
+26674,1175,3.9955113,Prime Suspect (1991),Crime|Drama|Mystery|Thriller,https://www.imdb.com/title/tt0098898
+2396,1175,3.994063,Shakespeare in Love (1998),Comedy|Drama|Romance,https://www.imdb.com/title/tt0138097
+6942,1175,3.9432435,Love Actually (2003),Comedy|Drama|Romance,https://www.imdb.com/title/tt0314331
+93040,1183,4.809824,"Civil War, The (1990)",Documentary|War,https://www.imdb.com/title/tt0098769
+97648,1183,4.7766585,Gangs of Wasseypur (2012),Crime|Drama,https://www.imdb.com/title/tt1954470
+86237,1183,4.7363443,Connections (1978),Documentary,https://www.imdb.com/title/tt0078588
+92500,1183,4.7146645,"Dylan Moran: Yeah, Yeah (2011)",Comedy,https://www.imdb.com/title/tt2114375
+953,1183,4.708164,It's a Wonderful Life (1946),Drama|Fantasy|Romance,https://www.imdb.com/title/tt0038650
+7502,1183,4.6209965,Band of Brothers (2001),Action|Drama|War,https://www.imdb.com/title/tt0185906
+912,1183,4.5676417,Casablanca (1942),Drama|Romance,https://www.imdb.com/title/tt0034583
+77177,1183,4.565979,Wild China (2008),Documentary,https://www.imdb.com/title/tt0884762
+1207,1183,4.5616937,To Kill a Mockingbird (1962),Drama,https://www.imdb.com/title/tt0056592
+98795,1183,4.5598106,Jazz (2001),Documentary,https://www.imdb.com/title/tt0221300
