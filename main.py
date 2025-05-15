@@ -1,6 +1,4 @@
 import os
-os.environ["PYSPARK_PYTHON"] = r"C:\\Users\\mutan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
-os.environ["PYSPARK_DRIVER_PYTHON"] = r"C:\\Users\\mutan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
 import time
 from src.downloader import download_movielens
 from src.loader import init_spark, load_data
